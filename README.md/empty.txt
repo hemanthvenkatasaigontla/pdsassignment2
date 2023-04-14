@@ -1,0 +1,6 @@
+# pdsassignment2
+
+Clean data contains readme file
+raw data contains csv file
+src contains code
+results contains graph
